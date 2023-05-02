@@ -22,7 +22,7 @@ fun main() {
 	val usuario2 = Usuario("Luana")
 	
 	val conteudo1 = ConteudoEducacional("Abstração", 4)
-	val conteudo2 = ConteudoEducacional("Encapsulamento")
+	val conteudo2 = ConteudoEducacional("Encapsulamento", 5)
 	val conteudo3 = ConteudoEducacional("Herança", 7)
 	val conteudo4 = ConteudoEducacional("Polimorfismo", 12)
 	val conteudo5 = ConteudoEducacional("Funções", 5)
